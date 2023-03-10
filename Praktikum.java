@@ -1,0 +1,3 @@
+pablic class Praktikum {
+	
+}
